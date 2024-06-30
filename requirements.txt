@@ -5,4 +5,3 @@ altair>=4.0
 matplotlib
 seaborn
 numpy
-sklearn
